@@ -11735,7 +11735,6 @@ html {
 
 .flag-img {
     height: 30px;
-    width: 100%;
     aspect-ratio: 4 / 3;
     overflow: hidden;
 }
