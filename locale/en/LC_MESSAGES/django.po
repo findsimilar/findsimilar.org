@@ -1,0 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-27 00:14+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: pages/contact.html:4 pages/contact.html:11 templates/base.html:43
+msgid "Contact"
+msgstr "Contact"
+
+#: pages/dev_status.html:4 pages/dev_status.html:11 templates/base.html:35
+msgid "Development status"
+msgstr "Development status"
+
+#: pages/dev_status.html:13
+msgid "find-similar package already available on pypi"
+msgstr "find-similar package already available on pypi"
+
+#: pages/dev_status.html:18
+msgid "Done"
+msgstr "Done"
+
+#: pages/dev_status.html:22
+msgid "You can use find-similar to compare any text sentences"
+msgstr "You can use find-similar to compare any text sentences"
+
+#: pages/dev_status.html:25
+msgid "You can use find-similar library to analyze algorithm prediction"
+msgstr "You can use find-similar library to analyze algorithm prediction"
+
+#: pages/dev_status.html:29
+msgid "Check Releases page"
+msgstr "Check Releases page"
+
+#: pages/dev_status.html:38
+msgid "Plans and current tasks"
+msgstr "Plans and current tasks"
+
+#: pages/dev_status.html:42
+msgid "Adding weights to algorithms"
+msgstr "Adding weights to algorithms"
+
+#: pages/dev_status.html:45
+msgid "Trying new approaches like neural network"
+msgstr "Trying new approaches like neural network"
+
+#: pages/index.html:11
+msgid "Welcome to FindSimilar!"
+msgstr ""
+
+#: pages/index.html:13
+msgid "User-friendly library to find similar objects"
+msgstr ""
+
+#: pages/index.html:21
+msgid "Mission Statement"
+msgstr ""
+
+#: pages/index.html:23
+msgid ""
+"The mission of the \"FindSimilar\" project is to provide a powerful and "
+"versatile open source library that empowers developers to efficiently find "
+"similar objects and perform comparisons across a variety of data types. "
+"Whether dealing with texts, images, audio, or more, our project aims to "
+"simplify the process of identifying similarities and enhancing decision-"
+"making."
+msgstr ""
+
+#: pages/index.html:28
+msgid "Key Objectives"
+msgstr ""
+
+#: pages/index.html:35
+msgid "Extensibility"
+msgstr ""
+
+#: pages/index.html:37
+msgid ""
+"We strive to build a flexible framework that goes beyond textual "
+"comparisons, with plans to expand compatibility to various data formats, "
+"including images, audio, and more."
+msgstr ""
+
+#: pages/index.html:42
+msgid "Ease of Integration"
+msgstr ""
+
+#: pages/index.html:44
+msgid ""
+"Our library will offer an intuitive interface that integrates seamlessly "
+"into existing applications and workflows, making it accessible to developers "
+"regardless of their experience level."
+msgstr ""
+
+#: pages/index.html:50
+msgid "Scalability"
+msgstr ""
+
+#: pages/index.html:53
+msgid ""
+"Our focus is on creating efficient algorithms and data structures that can "
+"handle datasets of varying sizes, ensuring performance and accuracy as the "
+"project scales."
+msgstr ""
+
+#: pages/index.html:58
+msgid "Community Collaboration"
+msgstr ""
+
+#: pages/index.html:60
+msgid ""
+"By embracing the principles of open source development, we invite a diverse "
+"community of contributors to collaborate, improve, and innovate upon the "
+"project, fostering a culture of shared knowledge and expertise."
+msgstr ""
+
+#: pages/index.html:65
+#, fuzzy
+#| msgid "Documentation"
+msgid "Documentation and Education"
+msgstr "Documentation"
+
+#: pages/index.html:67
+msgid ""
+"We are committed to providing comprehensive documentation, tutorials, and "
+"resources to help users and contributors understand the library's "
+"capabilities and use them effectively."
+msgstr ""
+
+#: pages/index.html:71
+msgid "Privacy and Ethics"
+msgstr ""
+
+#: pages/index.html:73
+msgid ""
+"As we expand into various data types, we are dedicated to upholding privacy "
+"and ethical considerations, ensuring that our library is built and used "
+"responsibly."
+msgstr ""
+
+#: pages/index.html:84
+msgid "Join Us"
+msgstr ""
+
+#: pages/index.html:86
+msgid ""
+"We invite developers, data scientists, and enthusiasts from all backgrounds "
+"to join our mission. Together, we can shape the future of \"Find Similar,\" "
+"creating a powerful tool that enhances decision-making, discovery, and "
+"innovation across diverse fields."
+msgstr ""
+
+#: pages/index.html:91
+msgid "Get Started"
+msgstr ""
+
+#: pages/index.html:93
+msgid "Explore our"
+msgstr ""
+
+#: pages/index.html:93
+msgid "GitHub repository"
+msgstr ""
+
+#: pages/index.html:93
+msgid ""
+"engage with the community on our forums, and join us in building a more "
+"connected and informed world through the \"FindSimilar\" project."
+msgstr ""
+
+#: pages/index.html:98
+msgid "Open Source Collaboration"
+msgstr ""
+
+#: pages/index.html:100
+msgid ""
+"\"FindSimilar\" is an open source project, fostering collaboration and "
+"innovation. We welcome contributors from all backgrounds to join us in "
+"shaping the future of similarity comparisons across various data types."
+msgstr ""
+
+#: pages/index.html:104
+msgid "Features"
+msgstr ""
+
+#: pages/index.html:108
+#, fuzzy
+#| msgid "You can use find-similar to compare any text sentences"
+msgid "Find similar text sentences"
+msgstr "You can use find-similar to compare any text sentences"
+
+#: pages/index.html:111
+msgid "Compare one text sentence with many"
+msgstr ""
+
+#: pages/index.html:114
+msgid "Sort similar texts by match percentage"
+msgstr ""
+
+#: pages/index.html:117
+msgid "Research laboratory with scripts to improve main algorithms"
+msgstr ""
+
+#: pages/index.html:123
+msgid "Requirements"
+msgstr ""
+
+#: templates/base.html:29
+msgid "Home"
+msgstr "Home"
+
+#: templates/base.html:32
+msgid "Documentation"
+msgstr "Documentation"
+
+#: templates/base.html:39
+msgid "Releases"
+msgstr "Releases"
+
+#: templates/base.html:48
+msgid "Languages"
+msgstr "<img class=\"flag-img\" src=\"static/images/us.svg\" alt=\"Flag of USA\">English"
+
+#: templates/base.html:51
+msgid "en/index.html"
+msgstr "index.html"
+
+#: templates/base.html:52
+msgid "ru/index.html"
+msgstr "ru/index.html"
+
+#: templates/base.html:53
+msgid "ua/index.html"
+msgstr "ua/index.html"
+
+#: templates/base.html:74
+msgid "This site was created by LavaCactus"
+msgstr "This site was created by LavaCactus"

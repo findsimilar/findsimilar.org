@@ -1,0 +1,5 @@
+.flag-img {
+    height: 30px;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+}
