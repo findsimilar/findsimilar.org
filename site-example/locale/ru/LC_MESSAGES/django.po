@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-26 23:04+0400\n"
+"POT-Creation-Date: 2023-08-26 23:18+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,11 +38,14 @@ msgstr "Реализовано"
 
 #: pages/dev_status.html:22
 msgid "You can use find-similar to compare any text sentences"
-msgstr "Вы можете использовать find-similar для сравнения любых текстовых выражений"
+msgstr ""
+"Вы можете использовать find-similar для сравнения любых текстовых выражений"
 
 #: pages/dev_status.html:25
 msgid "You can use find-similar library to analyze algorithm prediction"
-msgstr "Вы можете использовать библиотеку find-similar для анализа точности алгоритма поиска"
+msgstr ""
+"Вы можете использовать библиотеку find-similar для анализа точности "
+"алгоритма поиска"
 
 #: pages/dev_status.html:29
 msgid "Check Releases page"
@@ -59,6 +62,168 @@ msgstr "Добавить веса в алгоритм"
 #: pages/dev_status.html:45
 msgid "Trying new approaches like neural network"
 msgstr "Использовать новые подходы, например нейросеть"
+
+#: pages/index.html:11
+msgid "Welcome to FindSimilar!"
+msgstr "Добро пожаловать в FindSimilar!"
+
+#: pages/index.html:13
+msgid "User-friendly library to find similar objects"
+msgstr "Удобная библиотека для поиска похожих объектов"
+
+#: pages/index.html:21
+msgid "Mission Statement"
+msgstr "Миссия проетка"
+
+#: pages/index.html:23
+msgid ""
+"The mission of the \"FindSimilar\" project is to provide a powerful and "
+"versatile open source library that empowers developers to efficiently find "
+"similar objects and perform comparisons across a variety of data types. "
+"Whether dealing with texts, images, audio, or more, our project aims to "
+"simplify the process of identifying similarities and enhancing decision-"
+"making."
+msgstr "Миссия проекта \"FindSimilar\" — предоставить мощную и универсальную библиотеку с открытым исходным кодом, которая позволяет разработчикам эффективно находить похожие объекты и выполнять сравнения различных типов данных. Независимо от того, имеете ли вы дело с текстами, изображениями, аудио ..., наш проект направлен на упрощение процесса выявления сходства и повышение эффективности принятия решений."
+
+#: pages/index.html:28
+msgid "Key Objectives"
+msgstr "Ключевые цели"
+
+#: pages/index.html:35
+msgid "Extensibility"
+msgstr "Расширяемость"
+
+#: pages/index.html:37
+msgid ""
+"We strive to build a flexible framework that goes beyond textual "
+"comparisons, with plans to expand compatibility to various data formats, "
+"including images, audio, and more."
+msgstr "Мы стремимся создать гибкую структуру, выходящую за рамки текстовых сравнений, и планируем расширить совместимость с различными форматами данных, включая изображения, аудио и многое другое."
+
+#: pages/index.html:42
+msgid "Ease of Integration"
+msgstr "Простота интеграции"
+
+#: pages/index.html:44
+msgid ""
+"Our library will offer an intuitive interface that integrates seamlessly "
+"into existing applications and workflows, making it accessible to developers "
+"regardless of their experience level."
+msgstr "Наша библиотека предлагает интуитивно понятный интерфейс, который легко интегрируется в существующие приложения и рабочие процессы, что делает ее доступной для разработчиков независимо от их уровня опыта."
+
+#: pages/index.html:50
+msgid "Scalability"
+msgstr "Масштабируемость"
+
+#: pages/index.html:53
+msgid ""
+"Our focus is on creating efficient algorithms and data structures that can "
+"handle datasets of varying sizes, ensuring performance and accuracy as the "
+"project scales."
+msgstr "Мы сосредоточены на создании эффективных алгоритмов и структур данных, которые могут обрабатывать наборы данных различных размеров, обеспечивая производительность и точность по мере масштабирования проекта."
+
+#: pages/index.html:58
+msgid "Community Collaboration"
+msgstr "Сотрудничество с сообществом"
+
+#: pages/index.html:60
+msgid ""
+"By embracing the principles of open source development, we invite a diverse "
+"community of contributors to collaborate, improve, and innovate upon the "
+"project, fostering a culture of shared knowledge and expertise."
+msgstr "Принимая принципы разработки с открытым исходным кодом, мы приглашаем разнообразное сообщество участников к сотрудничеству, совершенствованию и внедрению инноваций в проект, способствуя культуре обмена знаниями и опытом."
+
+#: pages/index.html:65
+#, fuzzy
+#| msgid "Documentation"
+msgid "Documentation and Education"
+msgstr "Документация и Обучение"
+
+#: pages/index.html:67
+msgid ""
+"We are committed to providing comprehensive documentation, tutorials, and "
+"resources to help users and contributors understand the library's "
+"capabilities and use them effectively."
+msgstr "Мы стремимся предоставить исчерпывающую документацию, учебные пособия и ресурсы, чтобы помочь пользователям и участникам понять возможности библиотеки и эффективно их использовать."
+
+#: pages/index.html:71
+msgid "Privacy and Ethics"
+msgstr "Конфиденциальность и этика"
+
+#: pages/index.html:73
+msgid ""
+"As we expand into various data types, we are dedicated to upholding privacy "
+"and ethical considerations, ensuring that our library is built and used "
+"responsibly."
+msgstr "По мере того, как мы расширяемся до различных типов данных, мы стремимся соблюдать конфиденциальность и этические соображения, гарантируя, что наша библиотека создается и используется ответственно."
+
+#: pages/index.html:84
+msgid "Join Us"
+msgstr "Присоединяйтесь к нам"
+
+#: pages/index.html:86
+msgid ""
+"We invite developers, data scientists, and enthusiasts from all backgrounds "
+"to join our mission. Together, we can shape the future of \"Find Similar,\" "
+"creating a powerful tool that enhances decision-making, discovery, and "
+"innovation across diverse fields."
+msgstr "Мы приглашаем разработчиков, специалистов по данным и энтузиастов из всех слоев общества присоединиться к нашей миссии. Вместе мы можем определить будущее \"FindSimilar\", создав мощный инструмент, который улучшит процесс принятия решений, исследования и инновации в различных областях."
+
+#: pages/index.html:91
+msgid "Get Started"
+msgstr "С чего начать"
+
+#: pages/index.html:93
+msgid "Explore our"
+msgstr "Исследуйте наш"
+
+#: pages/index.html:93
+msgid "GitHub repository"
+msgstr "проект на GitHub"
+
+#: pages/index.html:93
+msgid ""
+"engage with the community on our forums, and join us in building a more "
+"connected and informed world through the \"FindSimilar\" project."
+msgstr "взаимодействуйте с сообществом на наших форумах и присоединяйтесь к нам в создании более связанного и информированного мира с помощью проекта \"FindSimilar\"."
+
+#: pages/index.html:98
+msgid "Open Source Collaboration"
+msgstr "Сотрудничество"
+
+#: pages/index.html:100
+msgid ""
+"\"FindSimilar\" is an open source project, fostering collaboration and "
+"innovation. We welcome contributors from all backgrounds to join us in "
+"shaping the future of similarity comparisons across various data types."
+msgstr "\"FindSimilar\" — это проект с открытым исходным кодом, способствующий сотрудничеству и инновациям. Мы приветствуем участников из всех слоев общества, которые присоединяются к нам в формировании будущего сравнения сходства для различных типов данных."
+
+#: pages/index.html:104
+msgid "Features"
+msgstr "Функии"
+
+#: pages/index.html:108
+#, fuzzy
+#| msgid "You can use find-similar to compare any text sentences"
+msgid "Find similar text sentences"
+msgstr "Поиск похожих текстовых выражений"
+"Вы можете использовать find-similar для сравнения любых текстовых выражений"
+
+#: pages/index.html:111
+msgid "Compare one text sentence with many"
+msgstr "Сравнение одного текстового выражения со многими другими"
+
+#: pages/index.html:114
+msgid "Sort similar texts by match percentage"
+msgstr "Сортировка похожих текстов по проценту совпадения"
+
+#: pages/index.html:117
+msgid "Research laboratory with scripts to improve main algorithms"
+msgstr "Исследовательская лаборатория со скриптами для улучшения основного алгоритми"
+
+#: pages/index.html:123
+msgid "Requirements"
+msgstr "Требования"
 
 #: templates/base.html:29
 msgid "Home"
