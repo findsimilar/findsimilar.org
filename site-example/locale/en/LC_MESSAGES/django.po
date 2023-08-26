@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-26 23:04+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: pages/contact.html:4 pages/contact.html:11 templates/base.html:43
+msgid "Contact"
+msgstr "Contact"
+
+#: pages/dev_status.html:4 pages/dev_status.html:11 templates/base.html:35
+msgid "Development status"
+msgstr "Development status"
+
+#: pages/dev_status.html:13
+msgid "find-similar package already available on pypi"
+msgstr "find-similar package already available on pypi"
+
+#: pages/dev_status.html:18
+msgid "Done"
+msgstr "Done"
+
+#: pages/dev_status.html:22
+msgid "You can use find-similar to compare any text sentences"
+msgstr "You can use find-similar to compare any text sentences"
+
+#: pages/dev_status.html:25
+msgid "You can use find-similar library to analyze algorithm prediction"
+msgstr "You can use find-similar library to analyze algorithm prediction"
+
+#: pages/dev_status.html:29
+msgid "Check Releases page"
+msgstr "Check Releases page"
+
+#: pages/dev_status.html:38
+msgid "Plans and current tasks"
+msgstr "Plans and current tasks"
+
+#: pages/dev_status.html:42
+msgid "Adding weights to algorithms"
+msgstr "Adding weights to algorithms"
+
+#: pages/dev_status.html:45
+msgid "Trying new approaches like neural network"
+msgstr "Trying new approaches like neural network"
+
+#: templates/base.html:29
+msgid "Home"
+msgstr "Home"
+
+#: templates/base.html:32
+msgid "Documentation"
+msgstr "Documentation"
+
+#: templates/base.html:39
+msgid "Releases"
+msgstr "Releases"
+
+#: templates/base.html:62
+msgid "This site was created by LavaCactus"
+msgstr "This site was created by LavaCactus"

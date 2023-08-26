@@ -1,3 +1,4 @@
+{% load i18n %}
 <!DOCTYPE html>
 <html class="no-js">
     <head>
@@ -25,19 +26,21 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav me-auto mb-2 mb-md-0">
        <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.html">{% trans 'Home' %}</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="https://docs.findsimilar.org" target="_blank">Documentation</a>
+                <a class="nav-link" href="https://docs.findsimilar.org" target="_blank">{% trans 'Documentation' %}</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="dev_status.html">Development status</a>
+                <a class="nav-link" href="dev_status.html">{% trans 'Development status' %}</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="https://github.com/findsimilar/find-similar/releases" target="_blank">Releases</a>
+                <a class="nav-link" href="https://github.com/findsimilar/find-similar/releases" target="_blank">
+                    {% trans 'Releases' %}
+                </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact.html" target="_blank">Contact</a>
+                <a class="nav-link" href="contact.html" target="_blank">{% trans 'Contact' %}</a>
             </li>
       </ul>
     </div>
@@ -56,7 +59,7 @@
     </div>
 
         <ul class="nav col-md-4 justify-content-end">
-      <li class="nav-item"><a href="https://lavacactus.craftsman.lol" target="_blank" class="nav-link px-2 text-muted">This site was created by LavaCactus</a></li>
+      <li class="nav-item"><a href="https://lavacactus.craftsman.lol" target="_blank" class="nav-link px-2 text-muted">{% trans 'This site was created by LavaCactus' %}</a></li>
             <li class="nav-item"><a class="nav-link px-2 text-muted" target="_blank" href="https://github.com/quillcraftsman/lava-cactus"><i class="bi bi-github"></i></a></li>
     </ul>
 

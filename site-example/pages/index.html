@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% load i18n %}
 {% block title %}
     FindSimilar
 {% endblock %}
@@ -7,9 +8,9 @@
 
 <div class="text-center bg-body-tertiary rounded-3">
     <img src="static/images/logo.png" class="bi mt-4 mb-3" width="100" height="100">
-    <h1 class="text-body-emphasis">Welcome to FindSimilar!</h1>
+    <h1 class="text-body-emphasis">{% trans 'Welcome to FindSimilar!' %}</h1>
     <p class="col-lg-8 mx-auto fs-5 text-muted">
-      User-friendly library to find similar objects
+      {% trans 'User-friendly library to find similar objects' %}
     </p>
     <div class="d-inline-flex gap-2 mb-5">
         <a class="d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" href="https://github.com/findsimilar/find-similar" target="_blank">Project on GitHub</a>

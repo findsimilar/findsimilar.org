@@ -1,1 +1,5 @@
-{}
+{
+  "use_translate": true,
+  "default_language": "en",
+  "other_languages": ["ru", "ua"]
+}
