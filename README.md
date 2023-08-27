@@ -5,7 +5,7 @@ This website available on [findsimilar.org](http://findsimilar.org).
 
 ## work with source code
 
-This site make with [LavaCactus](https://github.com/quillcraftsman/lava-cactus)
+This site make with [LavaCactus](https://github.com/quillcraftsman/lavacactus)
 
     git clone https://github.com/findsimilar/findsimilar.org.git
     pip install -r requirements.txt
