@@ -14,6 +14,8 @@ This is multi-language website.
 
 Use `{% trans 'some text' %}` in template to create template to translate.
 
+Check that gettext tool has been installed `sudo apt install gettext`
+
 Then use `cactus messages:make` to add template to `.po` files.
 
 `.po` files locates in `locale/<language_code>/LC_MESSAGES`.
