@@ -1,1 +1,1 @@
-lava-cactus==1.1.0
+lava-cactus==1.1.2

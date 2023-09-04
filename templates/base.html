@@ -27,13 +27,13 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav me-auto mb-2 mb-md-0">
        <li class="nav-item">
-                <a class="nav-link" href="index.html">{% trans 'Home' %}</a>
+                <a class="nav-link {% if_current_page '/index.html' 'active' '' %}" href="index.html">{% trans 'Home' %}</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="https://docs.findsimilar.org" target="_blank">{% trans 'Documentation' %}</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="dev_status.html">{% trans 'Development status' %}</a>
+                <a class="nav-link {% if_current_page '/dev_status.html' 'active' '' %}" href="dev_status.html">{% trans 'Development status' %}</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="https://github.com/findsimilar/find-similar/releases" target="_blank">
@@ -41,7 +41,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact.html">{% trans 'Contact' %}</a>
+                <a class="nav-link {% if_current_page '/contact.html' 'active' '' %}" href="contact.html">{% trans 'Contact' %}</a>
             </li>
 
            <li class="nav-item dropdown">
