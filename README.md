@@ -1,9 +1,31 @@
 # findsimilar.org
 
-FindSimilar project official website.
-This website available on [findsimilar.org](http://findsimilar.org).
+FindSimilar project official website
 
-## work with source code
+## Available
+It available on [findsimilar.org](https://findsimilar.org)
+
+## Open Source Project
+
+This is the open source project with [GPL-3.0 license](LICENSE). 
+Be free to use, fork, clone and contribute.
+
+## Features
+
+Information official website for [find-similar](https://github.com/findsimilar/find-similar) project
+
+## Contributing
+
+Want to contribute? You are welcome! 
+To easy start please check:
+
+- How to [contribute](CONTRIBUTING.md)
+- How to [support](SUPPORT.md)
+- About [governance](GOVERNANCE.md)
+- [Security policy](SECURITY.md)
+- [Developer documentation](#developer-documentation) below
+
+## Developer documentation
 
 This site make with [LavaCactus](https://github.com/quillcraftsman/lavacactus)
 
@@ -25,3 +47,7 @@ You can add translation to `.po` file on one of the language.
 Then use `cactus build` to build result static pages.
 
 Result will be store in `.build` folder.
+
+## FAQ
+
+Empty yet
